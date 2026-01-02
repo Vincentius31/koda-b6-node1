@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const mainFolder = path.join(__dirname, "music");
+const mainFolder = path.join(__dirname, "Music");
 
 const musicData = {
   "Ariana Grande": [
